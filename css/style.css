@@ -840,6 +840,10 @@ h2 {
     .portfolio .portfolio-container {
         grid-template-columns: 1fr;
     }
+
+    .overlay.dua img {
+        height: 50%;
+    }
 }
 
 @media (max-width: 450px) {
