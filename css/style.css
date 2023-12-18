@@ -833,6 +833,10 @@ h2 {
 }
 
 @media (max-width: 576px) {
+    #menu-icon {
+        display: block;
+    }
+
     .portfolio .portfolio-container {
         grid-template-columns: 1fr;
     }
